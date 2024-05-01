@@ -9,4 +9,5 @@
 - смена языка общения с помощником
 
 # Архитектура
-//TODO 
+- [Диаграмма вариантов использования](https://github.com/Tukk0/Python2024_2/blob/documentation/docs/Use-case%20diagram.png)
+- [Диаграмма классов](https://github.com/Tukk0/Python2024_2/blob/documentation/docs/Class%20diagram.png)
